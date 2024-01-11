@@ -1,0 +1,193 @@
+<mxfile modified="2024-01-10T13:20:47.664Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="91MU77wS-gSjBKjz520q" version="22.1.18" type="google">
+  <diagram id="E3ttDfYas0lBGuGD57UE" name="Page-1">
+    <mxGraphModel dx="1900" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-43" value="Online Learning Mangement System(LMS)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="-632.5" y="30" width="180" height="842.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-45" target="2amY8WhetxQ9lj7_Z2XX-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-45" value="User without &lt;br&gt;Online LMS account" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="92.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-46" value="&lt;div&gt;Register&lt;/div&gt;&lt;div&gt;G0001-001&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-600" y="95" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-47" value="&lt;div&gt;Login&lt;/div&gt;&lt;div&gt;G0001-002&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-595" y="250" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-48" value="&lt;div&gt;Login&lt;/div&gt;&lt;div&gt;G0001-003&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-600" y="405" width="108" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-49" value="&lt;div&gt;Change &lt;br&gt;&lt;/div&gt;&lt;div&gt;Profile&lt;/div&gt;&lt;div&gt;G0001-005&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-600" y="645" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-52" target="2amY8WhetxQ9lj7_Z2XX-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-715" y="515" />
+              <mxPoint x="-660" y="515" />
+              <mxPoint x="-660" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-52" target="2amY8WhetxQ9lj7_Z2XX-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-555" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-52" value="&lt;div&gt;User with Active&amp;nbsp;&lt;/div&gt;&lt;div&gt;Online LMS account&lt;/div&gt;&lt;div&gt;(Not Logged-in)&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="425" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-56" target="2amY8WhetxQ9lj7_Z2XX-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-715" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-56" target="2amY8WhetxQ9lj7_Z2XX-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-660" y="743" />
+              <mxPoint x="-660" y="743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.718;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-56" target="2amY8WhetxQ9lj7_Z2XX-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-715" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-56" value="&lt;div&gt;User with Active&amp;nbsp;&lt;/div&gt;&lt;div&gt;Online LMS account&lt;/div&gt;&lt;div&gt;(Logged-in)&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="713" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-57" value="&lt;div&gt;De-activate Account&lt;/div&gt;&lt;div&gt;G0001-007&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-594" y="785" width="98" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-58" value="&lt;div&gt;Reset Password&lt;/div&gt;&lt;div&gt;G0001-004&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-612.5" y="530" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-59" value="&lt;div&gt;Logout&lt;/div&gt;G0001-006" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="715" width="85" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-61" target="2amY8WhetxQ9lj7_Z2XX-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-61" value="User with Inactive &lt;br&gt;Online LMS account" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-63" target="2amY8WhetxQ9lj7_Z2XX-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-250" y="85" />
+              <mxPoint x="-470" y="85" />
+              <mxPoint x="-470" y="122" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-63" value="&lt;div&gt;User opens the webpage and click on &#39;Register&#39;&lt;/div&gt;&lt;div&gt;Registration page appears.&lt;br&gt;&lt;/div&gt;&lt;div&gt;User supplies his/her name, a working email and a preferred password.&lt;/div&gt;&lt;div&gt;Page displays a message to check e-mail and prompts for activation code.&lt;/div&gt;&lt;div&gt;User enters the activation code&lt;/div&gt;&lt;div&gt;Page displays success message and redirects to login page&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;labelBackgroundColor=#D5E8D4;comic=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-405" y="85" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;fontSize=12;dashed=1;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-65" target="2amY8WhetxQ9lj7_Z2XX-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-65" value="&lt;div&gt;Resend Activation code&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-612.5" y="325" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-68" target="2amY8WhetxQ9lj7_Z2XX-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-67" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" parent="2amY8WhetxQ9lj7_Z2XX-66" vertex="1" connectable="0">
+          <mxGeometry x="0.5636" relative="1" as="geometry">
+            <mxPoint x="50" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-68" value="&lt;div&gt;Send Activation code&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-620" y="175" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-70" target="2amY8WhetxQ9lj7_Z2XX-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-250" y="235" />
+              <mxPoint x="-470" y="235" />
+              <mxPoint x="-470" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-70" value="User opens the webpage and click on &#39;Login&#39;&lt;br&gt;&lt;div&gt;&lt;span&gt;Login page appears.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;User supplies Online LMS username and password&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Page displays a message to check e-mail and prompts for activation code&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;User enters the activation code&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Page displays success message and redirects to login page&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="252.5" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-72" target="2amY8WhetxQ9lj7_Z2XX-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="385" />
+              <mxPoint x="-470" y="385" />
+              <mxPoint x="-470" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-72" value="&lt;div&gt;User opens login web page&lt;/div&gt;&lt;div&gt;User supplies his/her Online LMS username and correct password&lt;/div&gt;&lt;div&gt;User click on login button to enter into the system.&lt;/div&gt;&lt;div&gt;User profile page appears.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="395" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-74" target="2amY8WhetxQ9lj7_Z2XX-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="815" />
+              <mxPoint x="-450" y="815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-74" value="User clicks on de-activate&lt;br&gt;&lt;div&gt;Page displays optional feedback prompt&lt;/div&gt;&lt;div&gt;User enters/skips feedback&lt;br&gt;&lt;/div&gt;&lt;div&gt;Page redirects to login screen.&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="790" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-76" target="2amY8WhetxQ9lj7_Z2XX-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-76" value="&lt;div&gt;User forgot the password associated with the Online LMS account&lt;br&gt;&lt;/div&gt;&lt;div&gt;User opens login page&lt;/div&gt;&lt;div&gt;User clicks on forgot password button&lt;/div&gt;&lt;div&gt;User enters Online LMS username and new password&lt;br&gt;&lt;/div&gt;&lt;div&gt;Page displays a message to check-email and prompts for activation code.&lt;/div&gt;&lt;div&gt;User enters the activation code&lt;/div&gt;&lt;div&gt;Page displays success message and redirects to login page&lt;/div&gt;" style="text;html=1;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="494" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-490" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-78" value="&lt;div&gt;User clicks on profile&lt;/div&gt;&lt;div&gt;Page displays the profile of user&lt;/div&gt;&lt;div&gt;User changes any part of profile except email&lt;br&gt;&lt;/div&gt;Page displays a message like successfully updated.&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="645" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-80" target="2amY8WhetxQ9lj7_Z2XX-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="737" />
+              <mxPoint x="-460" y="737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-80" value="User clicks on Logout.&lt;br&gt;Page redirects to login web page&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="723" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-81" value="Usecases for Online Learning Management System&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-718.5" y="880" width="537" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-82" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Project Code: G0001&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;Author: batch 6&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;Date: 10 jan 2024&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;Version: 1.0&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-690" y="935" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-83" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-549.8275568084373" y="315.00085255531917" as="geometry">
+            <mxPoint x="50" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2amY8WhetxQ9lj7_Z2XX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=open;endFill=0;fontSize=12;" parent="1" source="2amY8WhetxQ9lj7_Z2XX-59" target="2amY8WhetxQ9lj7_Z2XX-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
